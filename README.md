@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/ibrahiem-mohammad/" target="_blank">
-  <img align="left" alt="Ibrahiem's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style=color: "blue"/>
+  <img align="left" alt="Ibrahiem's LinkdeIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
 </a>
 <a href="https://imohammd.netlify.app/" target="_blank">
   <img align="left" alt="Ibrahiem's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" style=color: "green"/>
