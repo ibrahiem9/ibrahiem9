@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://www.linkedin.com/in/ibrahiem-mohammad/" target="_blank">
-  <img align="left" alt="Ibrahiem's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ibrahiem's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style={{color: "blue"}}/>
 </a>
 <a href="https://imohammd.netlify.app/" target="_blank">
-  <img align="left" alt="Ibrahiem's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg"
+  <img align="left" alt="Ibrahiem's Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netlify.svg" style={{color: "green"}}/>
 </a>
 <!--<a href="https://twitter.com/azhar22k/" target="_blank">
   <img align="left" alt="Azhar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
