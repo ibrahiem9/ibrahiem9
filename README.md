@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 Public Contributions             |  Top Languages
 :-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=ibrahiem96k&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiem96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css)
+![](https://github-readme-stats.vercel.app/api?username=ibrahiem96&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiem96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css)
 <hr>
 <!--
 <a href="https://stackoverflow.com/users/6426237/azhar22k" target="_blank">
@@ -61,10 +61,9 @@ Public Contributions             |  Top Languages
 
 <hr>
 I love talking spirituality, coding sustainably, and living close to the earth
+<br />
 
 - 💬 Ask me about AWS, Terraform, Kubernetes, Javascript
 <hr>
-<details>
-  <summary>Click to view wakatime language stats</summary> 
-<img align="left" src="https://wakatime.com/share/@f33c1581-5370-46dd-b920-21d1f611fe0d/4a37a4fa-4dfe-404b-8547-711d4fcf6722.svg" />
-</details>
+<br />
+
