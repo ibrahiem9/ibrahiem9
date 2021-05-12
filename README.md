@@ -40,7 +40,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Azhar's github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 -->
-<br>
 <hr>
 
 Public Contributions             |  Top Languages
@@ -58,8 +57,7 @@ Public Contributions             |  Top Languages
   <img alt="Developer Associate" src="https://github.com/azhar22k/azhar22k/blob/master/aws-certified-developer-associate.png?raw=true" />
 </a>
 -->
-
-<hr>
+<br>
 I love talking spirituality, coding sustainably, and living close to the earth
 <br>
 
