@@ -59,7 +59,7 @@ Public Contributions             |  Top Languages
 </a>
 -->
 <br>
-I love talking spirituality, coding sustainably, and living close to the earth
+I love talking spirituality and living close to the earth
 <br>
 
 - 💬 Ask me about AWS, Terraform, Kubernetes, Javascript
