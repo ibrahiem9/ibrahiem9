@@ -1,5 +1,7 @@
 ### Hey there, and welcome to my Github 👋
 
+-------
+
 <a href="https://www.linkedin.com/in/ibrahiem-mohammad/" target="_blank">
   <img align="left" alt="Ibrahiem's LinkdeIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
 </a>
