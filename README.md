@@ -1,14 +1,12 @@
 ### Hey there, and welcome to my Github 👋
 
--------
-
 <a href="https://www.linkedin.com/in/ibrahiem-mohammad/" target="_blank">
   <img align="left" alt="Ibrahiem's LinkdeIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"/>
 </a>
 <a href="https://imohammd.netlify.app/" target="_blank">
   <img align="left" alt="Ibrahiem's Website" width="22px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"/>
 </a>
-
+<br>
 -------
 
 I love talking spirituality and living close to the earth
