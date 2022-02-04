@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 <a href="https://imohammd.netlify.app/" target="_blank">
   <img align="left" alt="Ibrahiem's Website" width="22px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"/>
 </a>
+
+<br>
+I love talking spirituality and living close to the earth
+<br>
+
+- 💬 Ask me about AWS, Terraform, Kubernetes, Javascript
+<hr>
 <!--<a href="https://twitter.com/azhar22k/" target="_blank">
   <img align="left" alt="Azhar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -58,10 +65,14 @@ Public Contributions             |  Top Languages
   <img alt="Developer Associate" src="https://github.com/azhar22k/azhar22k/blob/master/aws-certified-developer-associate.png?raw=true" />
 </a>
 -->
-<br>
-I love talking spirituality and living close to the earth
-<br>
 
-- 💬 Ask me about AWS, Terraform, Kubernetes, Javascript
-<hr>
-
+-------
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Go         2 hrs 12 mins   ████████████████████▓░░░░   83.28 % 
+Markdown   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Lua        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+```
+<!--END_SECTION:waka-->
+-------
