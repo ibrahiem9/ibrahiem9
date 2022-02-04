@@ -67,8 +67,7 @@ Public Contributions             |  Top Languages
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Terraform
-Docker
+
 ```
 <!--END_SECTION:waka-->
 -------
