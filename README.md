@@ -27,7 +27,6 @@ I love talking spirituality and living close to the earth
 <br>
 
 - 💬 Ask me about AWS, Terraform, Kubernetes, Javascript
-<hr>
 <!--<a href="https://twitter.com/azhar22k/" target="_blank">
   <img align="left" alt="Azhar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -47,13 +46,11 @@ I love talking spirituality and living close to the earth
   <img align="left" alt="Azhar's github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
 -->
-<br>
 <hr>
 
 Public Contributions             |  Top Languages
 :-------------------------:|:-------------------------:
 ![](https://github-readme-stats.vercel.app/api?username=ibrahiem96&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiem96&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css)
-<hr>
 <!--
 <a href="https://stackoverflow.com/users/6426237/azhar22k" target="_blank">
   <img align="left" alt="stackoverflow Profile" src="https://github-readme-stackoverflow.vercel.app/?userID=6426237" >
