@@ -70,9 +70,7 @@ Public Contributions             |  Top Languages
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Go         2 hrs 12 mins   ████████████████████▓░░░░   83.28 % 
-Markdown   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Lua        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 -------
