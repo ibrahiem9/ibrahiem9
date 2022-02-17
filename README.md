@@ -10,9 +10,8 @@
 <hr>
 <br>
 I love talking spirituality and living close to the earth
-
 <br>
-
+<br>
 💬 Ask me about: 
 - AWS, Terraform, Kubernetes, Javascript
 
