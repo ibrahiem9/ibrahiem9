@@ -7,7 +7,7 @@
   <img align="left" alt="Ibrahiem's Website" width="22px" src="https://cdn.worldvectorlogo.com/logos/netlify.svg"/>
 </a>
 <br>
--------
+<hr>
 I love talking spirituality and living close to the earth
 <br>
 
