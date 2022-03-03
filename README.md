@@ -25,9 +25,9 @@ Public Contributions             |  Top Languages
 <!--START_SECTION:waka-->
 
 ```text
-Terraform                    █████████████████▒░░░░░░░   68.80 %
-YAML                         ███████▓░░░░░░░░░░░░░░░░░   30.42 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Terraform                    █████████████████░░░░░░░░   68.30 %
+YAML                         ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
