@@ -25,7 +25,7 @@ Public Contributions             |  Top Languages
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Terraform                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
