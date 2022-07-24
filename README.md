@@ -25,9 +25,9 @@ Public Contributions             |  Top Languages
 <!--START_SECTION:waka-->
 
 ```text
-Terraform                   █████████████████████▓░░░   86.23 %
-Bash                        ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Other                       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Terraform                   ██████████████████████░░░   87.77 %
+Bash                        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Other                       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
 
 <!--END_SECTION:waka-->
