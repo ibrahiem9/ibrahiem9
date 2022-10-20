@@ -25,7 +25,7 @@ Public Contributions             |  Top Languages
 <!--START_SECTION:waka-->
 
 ```text
-Other                        ████████████░░░░░░░░░░░░░   48.59 %
+Other                        ██████████▒░░░░░░░░░░░░░░   41.96 %
 ```
 
 <!--END_SECTION:waka-->
