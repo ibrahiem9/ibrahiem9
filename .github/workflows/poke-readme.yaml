@@ -19,4 +19,4 @@ jobs:
     steps:
       - uses: ibrahiem96/poke-readme-action@dev/ibrahiem
         with:
-          pokemon: 'charmander'
+          pokemon: 'squirtle'
