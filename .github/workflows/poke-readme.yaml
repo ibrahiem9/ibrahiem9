@@ -13,7 +13,7 @@ on:
 
 jobs:
   add-poke-sprite:
-    name: Add Pokemon Sprite to README
+    name: Add Pokemon Sprite to repo README
     runs-on: ubuntu-latest
     steps:
       - uses: ibrahiem96/poke-readme-action@dev/ibrahiem
