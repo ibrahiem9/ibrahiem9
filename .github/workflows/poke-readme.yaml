@@ -19,5 +19,4 @@ jobs:
     steps:
       - uses: ibrahiem96/poke-readme-action@dev/ibrahiem
         with:
-          pokemon: 'charizard'
-          repository: 'slybot'
+          pokemon: 'castform'
