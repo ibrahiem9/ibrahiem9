@@ -16,6 +16,6 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: ibrahiem96/poke-readme@dev/ibrahiem
+      - uses: ibrahiem96/poke-readme-action@dev/ibrahiem
         with:
           pokemon: 'pikachu'
