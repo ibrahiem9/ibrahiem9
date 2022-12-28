@@ -1,0 +1,21 @@
+name: Poke Readme
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches:
+      - dev
+  # workflow_dispatch:
+  # schedule:
+  #   # Runs at 12am UTC
+  #   - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: ibrahiem96/poke-readme@dev/ibrahiem
+        with:
+          pokemon: 'pikachu'
