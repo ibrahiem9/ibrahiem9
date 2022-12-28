@@ -12,8 +12,8 @@ on:
   #   - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
-    name: Update this repo's README
+  add-poke-sprite:
+    name: Add Pokemon Sprite to README
     runs-on: ubuntu-latest
     steps:
       - uses: ibrahiem96/poke-readme-action@dev/ibrahiem
