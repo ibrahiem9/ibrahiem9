@@ -42,5 +42,11 @@ Markdown                     █▒░░░░░░░░░░░░░░░
 
 
 
+<<<<<<< HEAD
 <!--Pokemon Sprite-->
 ![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png)
+=======
+
+<!--Pokemon Sprite-->
+![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png)
+>>>>>>> 0038ed63d56ac82961782b0171086fdc93b48231
