@@ -25,11 +25,7 @@ Public Contributions             |  Top Languages
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                   █████████████████▒░░░░░░░   69.73 %
-YAML                         ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
-Markdown                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-JSON                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Git Config                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
