@@ -25,9 +25,9 @@ Public Contributions             |  Top Languages
 <!--START_SECTION:waka-->
 
 ```text
-Python                       ██████████████████▓░░░░░░   74.91 %
-Terraform                    █████▓░░░░░░░░░░░░░░░░░░░   22.88 %
-JavaScript                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Python                       ██████████████████████▒░░   89.99 %
+Terraform                    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
+JavaScript                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
