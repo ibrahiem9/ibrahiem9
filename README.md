@@ -42,5 +42,6 @@ Other                       ░░░░░░░░░░░░░░░░░�
 
 
 
+
 <!--Pokemon Sprite-->
-![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/321.png)
+![image](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png)
