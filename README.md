@@ -25,10 +25,8 @@ Public Contributions             |  Top Languages
 <!--START_SECTION:waka-->
 
 ```text
-Terraform                    █████████▓░░░░░░░░░░░░░░░   38.33 %
-Swift                        █████████▒░░░░░░░░░░░░░░░   36.90 %
-Git Config                   ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-Other                        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+Python                   ████████████▒░░░░░░░░░░░░   49.13 %
+Other                    ██████████▒░░░░░░░░░░░░░░   41.40 %
 ```
 
 <!--END_SECTION:waka-->
