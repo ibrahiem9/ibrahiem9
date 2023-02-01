@@ -25,8 +25,9 @@ Public Contributions             |  Top Languages
 <!--START_SECTION:waka-->
 
 ```text
-Python                   ████████████▒░░░░░░░░░░░░   49.13 %
-Other                    ██████████▒░░░░░░░░░░░░░░   41.40 %
+Python                   █████████████████████░░░░   83.83 %
+JSON                     ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Text                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
