@@ -25,7 +25,9 @@ Public Contributions             |  Top Languages
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Docker                      ███████████████████████▓░   95.15 %
+Terraform                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+YAML                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
