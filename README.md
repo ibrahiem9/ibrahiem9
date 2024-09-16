@@ -8,7 +8,7 @@
 </a>
 <br>
 <hr>
-I love talking spirituality and living close to the earth
+I love talking about spirituality and living close to the earth
 <br>
 <br>
 💬 Ask me about: 
