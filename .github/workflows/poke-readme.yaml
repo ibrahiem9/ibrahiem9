@@ -15,6 +15,6 @@ jobs:
     name: Add Pokemon Sprite to repo README
     runs-on: ubuntu-latest
     steps:
-      - uses: ibrahiem96/poke-readme-action@main
+      - uses: ibrahiem9/poke-readme-action@main
         with:
           pokemon: ${{ inputs.pokemon }}
