@@ -15,12 +15,6 @@ I love talking about spirituality and living close to the earth
 - AWS, Terraform, Kubernetes
 
 -------
-
-Public Contributions             |  Top Languages
-:-------------------------:|:-------------------------:
-![](https://github-readme-stats.vercel.app/api?username=ibrahiem9&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  |  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahiem9&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css)
-
--------
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
